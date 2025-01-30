@@ -49,4 +49,4 @@ O código é composto por:
 - **Leitura da senha** inserida pelo usuário.
 - **Loop de validação** que continua até que a senha correta seja digitada.
 - **Exibição da mensagem** informando se o acesso foi permitido ou negado.
-- 
+
